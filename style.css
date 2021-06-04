@@ -1,0 +1,56 @@
+body {
+  background-image: url("./images/bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Varela Round", sans-serif;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  font-size: 72px;
+}
+
+.image-box {
+  text-align: center;
+}
+
+.image-box img{
+  width: 300px;
+}
+
+.button-box {
+  text-align: center;
+}
+
+.gameBtn {
+  width: 100px;
+  height: 100px;
+}
+
+.form {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.form input {
+  width: 100px;
+  height: 50px;
+}
+
+.hidden {
+  display: none;
+}
+
+
+
+ol {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+}
+
+li {
+  color: red;
+}
